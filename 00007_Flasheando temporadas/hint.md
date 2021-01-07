@@ -5,5 +5,5 @@ Para seleccionar una fila en particular, tienes el ID que la distingue unívocam
 Acá tienes un ejemplo con un afiliado de la isapre que se mudó:
 
 ``` sql 
-UPDATE afiliados SET domicilio = "Av. Rivadavia 27639" WHERE nro\_afiliado = 123987; 
+UPDATE afiliados SET domicilio = "Av. Rivadavia 27639" WHERE nro_afiliado = 123987; 
 ```
