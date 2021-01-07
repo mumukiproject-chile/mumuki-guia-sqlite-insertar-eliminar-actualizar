@@ -9,7 +9,9 @@ En esta lección vimos:
 * Que podemos actualizar/modificar ciertos campos de registros que nos interesan. 
 * Cómo ordenar y limitar la cantidad de resultados que se muestran. Y de yapa, una forma de resolver el "top 5" en otros motores:
 
- ``` sql SELECT * FROM afiliados ORDER BY cuota DESC LIMIT 5; ```
+ ``` sql 
+ SELECT * FROM afiliados ORDER BY cuota DESC LIMIT 5; 
+ ```
 
 Pero te dejamos entrever que no existe una única tabla en el mundo, sino que puede haber varias, y hasta _relacionarse_ entre sí como tú con tus amigos: tienen cosas en común y pueden compartir información.
 
