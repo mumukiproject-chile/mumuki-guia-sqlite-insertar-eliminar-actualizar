@@ -1,6 +1,4 @@
-En este ejemplo borramos de la obra social a los afiliados que cumplen 25 años (es hora de pagarse su propia obra social...:flushed:)
+En este ejemplo borramos de la isapre a los afiliados que cumplen 18 años (es hora de pagarse su propia isapre... :flushed:)
 
-```sql
-DELETE FROM afiliados WHERE edad = 25;
-```
+```sql DELETE FROM afiliados WHERE edad = 18; ```
 

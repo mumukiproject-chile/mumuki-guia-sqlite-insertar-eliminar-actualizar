@@ -1,6 +1,6 @@
-¡Paremos todo! Si quisiéramos modificar una sola cosa, claramente no estaría bueno borrar todo y volver a insertar cada registro con el dato modificado. 
+¡Paremos todo! Si quisiéramos modificar una sola cosa, claramente no sería bueno borrar todo y volver a insertar cada registro con el dato modificado. 
 
-En ese caso, simplemente actualizaremos la tabla, fijando los valores deseados en los campos que queramos.
+En ese caso, simplemente actualizaremos la tabla fijando los valores deseados en los campos que queramos.
 
 <div
   class='mu-sql-table'
@@ -15,8 +15,6 @@ En ese caso, simplemente actualizaremos la tabla, fijando los valores deseados e
   ]'>
 </div>
 
-``` sql
-UPDATE series_peliculas SET puntaje = 8;
-```
+``` sql UPDATE series_peliculas SET puntaje = 8; ```
 
-> ¡Presioná Continuar y mirá lo que pasa! :open_mouth:
+> ¡Presiona Continuar y mira lo que pasa! :open\_mouth:

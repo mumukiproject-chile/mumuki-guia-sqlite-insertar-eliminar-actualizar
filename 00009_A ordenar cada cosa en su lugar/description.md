@@ -1,10 +1,10 @@
-¡Genial! Ahora te toca a vos :stuck_out_tongue_winking_eye:
+¡Genial! Ahora te toca a ti :stuck\_out\_tongue\_winking\_eye:
 
 Al igual que antes, nos piden que hagas lo siguiente: 
 
-> Cargá en la tabla de Denisse los siguientes títulos con la cantidad de temporadas que les corresponda: "Stranger things”, “The walking dead” y “Los juegos del hambre”, pero esta vez ordenados por el puntaje. 
+> Carga en la tabla de Denisse los siguientes títulos con la cantidad de temporadas que les corresponda: "Stranger things”, “The walking dead” y “Los juegos del hambre”, pero esta vez ordenados por puntaje. 
 
-Para esto, podés usar al final del `SELECT` la expresión `ORDER BY <cierto_campo>`, que devolverá los resultados de la consulta ordenados por ese campo que le indicamos. 
+Para esto, puedes usar al final del `SELECT` la expresión `ORDER BY <cierto_campo>`, que devolverá los resultados de la consulta ordenados por ese campo que le indicamos. 
 
 <div
   class='mu-erd'

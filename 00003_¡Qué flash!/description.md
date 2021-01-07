@@ -1,8 +1,8 @@
-¡Muy bien! Nuestra plataforma está quedando super completa.
+¡Muy bien! Nuestra plataforma está quedando súper completa.
 
 ¿Pero qué pasa si no tenemos toda la información de la serie?
 
-> Insertá solo el nombre de la serie: The Flash
+> Inserta solo el nombre de la serie: The Flash
 
 <div
   class='mu-erd'
