@@ -2,7 +2,9 @@ Para mejorar la plataforma queremos hacer un perfil más especial para cada usua
 
 Supongamos que Denisse, fiel clienta de NetFix, estuvo mirando recientemente _Los juegos del hambre, Stranger things, The walking dead y El internado_. Desde _nuestra tabla_ de contenidos podríamos cargarle fácilmente toda la información en _su tabla_ de la siguiente manera:
 
-``` sql INSERT INTO denisse (titulo_visto, temporadas) SELECT titulo, temporadas FROM series_peliculas WHERE id_contenido = 5 OR titulo = "Stranger Things" OR titulo LIKE "the walking dead" OR titulo LIKE "%internado%" ```
+``` sql 
+INSERT INTO denisse (titulo_visto, temporadas) SELECT titulo, temporadas FROM series_peliculas WHERE id_contenido = 5 OR titulo = "Stranger Things" OR titulo LIKE "the walking dead" OR titulo LIKE "%internado%" 
+```
 
 > Haz clic en Continuar para ver cómo queda la tabla de Denisse.
 

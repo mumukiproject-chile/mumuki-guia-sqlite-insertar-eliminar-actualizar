@@ -15,6 +15,8 @@ En ese caso, simplemente actualizaremos la tabla fijando los valores deseados en
   ]'>
 </div>
 
-``` sql UPDATE series_peliculas SET puntaje = 8; ```
+``` sql 
+UPDATE series_peliculas SET puntaje = 8; 
+```
 
 > ¡Presiona Continuar y mira lo que pasa! :open\_mouth:

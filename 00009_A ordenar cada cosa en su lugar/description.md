@@ -1,4 +1,4 @@
-¡Genial! Ahora te toca a ti :stuck\_out\_tongue\_winking\_eye:
+¡Genial! Ahora te toca a ti :stuck_out_tongue_winking_eye:
 
 Al igual que antes, nos piden que hagas lo siguiente: 
 
